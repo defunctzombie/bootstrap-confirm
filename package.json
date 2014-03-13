@@ -1,0 +1,10 @@
+{
+    "name": "bootstrap-confirm",
+    "version": "0.0.0",
+    "description": "bootstrap ui confirmation dialog",
+    "dependencies": {
+        "domify": "1.2.2"
+    },
+    "main": "./index.js",
+    "license": "MIT"
+}
